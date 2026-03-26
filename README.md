@@ -1,4 +1,4 @@
-# warehouse_nav_ws (Lumi Vs Dyam)
+# warehouse_nav_ws (Team_Lumi)
 Autonomous Self-Driving Indoor Navigation for Warehouse Inventory Management
 # WarehouseNav AMR — Complete Working Prototype
 ## MAHE Mobility Challenge 2026 | Robotics Track | ARTPARK, IISc
