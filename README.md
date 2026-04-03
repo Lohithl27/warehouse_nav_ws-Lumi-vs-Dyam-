@@ -6,6 +6,8 @@ Autonomous Self-Driving Indoor Navigation for Warehouse Inventory Management
 
 ---
 
+Video Submission https://github.com/Lohithl27/warehouse_nav_ws-Team_Lumi/blob/main/Team-%20Lumi%20(MIT%20Submission-26-03-26)%20Round%2001/Video%20Submission%20(MIT)-Robotics%20.mp4
+
 ## Workspace Structure
 
 ```
